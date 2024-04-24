@@ -18,7 +18,7 @@ This Python script allows you to download all your private repositories from Git
 3. Replace the placeholder values in the script with your GitHub username and Personal Access Token.
 
 ## Usage
-1. Run the script github_private_repo_downloader.py.
+1. Run the script `python3 private_repo_down.py`.
 2. It will authenticate with your GitHub account and fetch a list of your private repositories.
 3. The script will create a directory specified in download_path (by default private_repositories) if it doesn't exist.
 4. Each repository will be cloned or downloaded into the specified directory.
