@@ -40,5 +40,15 @@ This Python script allows you to download all your private repositories from Git
 2. This script uses the `PyGithub` library to interact with the GitHub API.
 3. Make sure you have enough disk space to download all your repositories.
 
+## Social Profiles
+
+[Medium](https://medium.com/@imusabkhan) |
+[YouTube](https://www.youtube.com/musabkhan) |
+[LinkedIn](https://www.linkedin.com/in/musab1995/) |
+[Twitter](https://twitter.com/Musab1995) |
+[HackerOne](https://hackerone.com/musabkhan) |
+[Facebook](https://facebook.com/imusabkhan) |
+[Instagram](https://instagram.com/imusabkhan)
+
 ## Disclaimer
 This script is provided as-is and the author takes no responsibility for any damages caused by its usage. Use it responsibly and ensure that you have proper permissions to access the repositories you're downloading.
